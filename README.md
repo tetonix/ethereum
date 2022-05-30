@@ -1,4 +1,4 @@
-# vapory-rs
+# ethereum-rs
 
 Apache-2 licensed common Ethereum structs shared by crates. Nightly version of etcommon-rs.
 
